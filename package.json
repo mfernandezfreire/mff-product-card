@@ -7,6 +7,11 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/mfernandezfreire/mff-product-card",
+    "type": "git"
+  },
+  "homepage": "",
   "engines": {
     "node": ">=10"
   },
@@ -60,5 +65,10 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.4.0",
     "typescript": "^4.8.4"
-  }
+  },
+  "keywords": [
+    "product",
+    "card",
+    "manufernandezfreire"
+  ]
 }
