@@ -10,7 +10,7 @@ import {
   ProductImage,
   ProductTitle,
   ProductButtons,
-} from 'do-product-cart' ;
+} from 'mff-product-cart' ;
 
 ```
 
